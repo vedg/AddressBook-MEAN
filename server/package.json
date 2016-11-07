@@ -1,0 +1,24 @@
+{
+    "name": "paypal-code-challenge-app",
+    "version":"1",
+   "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.3.6"
+  },
+
+  "dependencies": {
+    "restify": "*",
+    "mongoose":"*",
+    "require":"*",
+    "mongoose-schema-extend":"*",
+   "log4js":"*"
+
+  },
+  "bugs":{
+    "email":"bbpureti@gmail.com"
+  },
+"repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/BangaruBabu/paypal-code-challenge.git"
+  }
+}
